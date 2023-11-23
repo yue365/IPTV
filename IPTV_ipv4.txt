@@ -799,3 +799,4 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 怡伴健康,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225673/1.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/1.m3u8
 【2023-11-23更新】,#genre#
+中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/1.m3u8
