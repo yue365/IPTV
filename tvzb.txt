@@ -1,4 +1,4 @@
-【央视频道】,#genre#
+[央视频道],#genre#
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226239/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226457/index.m3u8
@@ -198,7 +198,7 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
-【卫视频道】,#genre#
+[卫视频道],#genre#
 安徽卫视,http://111.20.33.70/PLTV/88888893/224/3221226196/index.m3u8
 安徽卫视,http://111.20.33.70/PLTV/88888893/224/3221226203/index.m3u8
 安徽卫视,http://221.0.78.198:1681/hls/10261/index.m3u8
@@ -501,7 +501,7 @@ CCTV17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
 重庆卫视,https://php.61073736.repl.co/sxg.php?id=cqwsH265_4000
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
-【央视频道IPv6】,#genre#
+[央视频道IPv6],#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -630,7 +630,7 @@ CCTV(4K),http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_4965
 CCTV1(4K),http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 CCTV16(4K),http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 
-【卫视频道IPv6】,#genre#
+[卫视频道IPv6],#genre#
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 北京卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -729,7 +729,7 @@ CCTV16(4K),http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/2
 重庆卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 
-【电影频道】,#genre#
+[电影频道],#genre#
 CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
@@ -749,27 +749,12 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
 
-【其他频道】,#genre#
-BesTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?
-BesTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?
-BesTV3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?
-BesTV4,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?
-BesTV5,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?
-BesTV6,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?
-BesTV7,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?
-BesTV8,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?
-BesTV9,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?
-BesTV10,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?
-BesTV11,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?
-中国环球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中国教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
+[其他频道],#genre#
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-环球纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 华数高清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
-【11-24更新】,#genre#
-咪咕视频(1),http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
-咪咕视频(2),http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/1.m3u8
+[11-24更新],#genre#
+咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
