@@ -508,6 +508,16 @@ CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 汉中公共,http://111.20.105.60:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 汉中教育,http://111.20.105.60:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁强综合,http://111.20.105.60:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宁强综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宁强综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+南郑综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002435/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+南郑综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002435/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+城固电视台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+城固电视台,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+洋县电视台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002405/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+洋县电视台,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002405/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 [11月27更新],#genre#
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
