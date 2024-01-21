@@ -1,5 +1,4 @@
 [央视频道],#genre#
-CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw3964003222_765154567/ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8?icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3963797831_838224880/ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8?icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -848,6 +847,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122611
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw348498084_-2063977587/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
+黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
