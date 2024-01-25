@@ -1,2 +1,2 @@
-移动IPTV直播源，请低调使用。推荐使用tivimate
+移动IPTV直播源，请勿商用。推荐搭配tivimate食用
 ##
