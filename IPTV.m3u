@@ -1,7 +1,7 @@
 #epg改用Meroser提供的，更加准确
 #EXTM3U x-tvg-url="https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
