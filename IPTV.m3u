@@ -134,7 +134,7 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/1.m3u8
-#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字频道",第一财经
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="地方频道",第一财经
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/1.m3u8
 #EXTINF:-1 tvg-id="E01" tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方频道",湖南茶频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/1.m3u8
@@ -146,7 +146,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/1.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/1.m3u8
-#EXTINF:-1 tvg-id="jsrw" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",上海纪实人文
+#EXTINF:-1 tvg-id="jsrw" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/1.m3u8
 #EXTINF:-1 tvg-id="N01" tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="NewTV",NewTV军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/1.m3u8
