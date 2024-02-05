@@ -4,4 +4,6 @@ IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格�
 ##
 <img src="https://github.com/yue365/IPTV/blob/master/sample-2024-01-30_12-13-19.png"/>
 感谢：
-SPX372928、fanmingming、Meroser
+wcb1969、SPX372928、fanmingming、Meroser
+##
+最近很多优质的直播源的不可用了，也不知道是限制了ip所属地还是直接关停了，目前也就陕西移动和黑龙江移动的可以正常观看，且用且珍惜吧
