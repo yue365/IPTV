@@ -1203,6 +1203,9 @@ CCTV-高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990
 重庆卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
+山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
+山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226458/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 陕西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
