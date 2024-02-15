@@ -6,7 +6,7 @@ https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 
 ### 直播源检测
-IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格式、音频信息等，虽然有的直播源可以被检测到动态比特率（视频）（瞬时的不准确），但是大部分HEVC（视频）+AAC（音频）组合的直播源始终无法检测其画质具体好坏（以至于有很多冗余的直播源），欢迎各位喜欢折腾的朋友提供思路（如何检测视频码率，音频码率）
+IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格式、音频信息等，虽然有的直播源可以被检测到动态比特率（但这个值不准确）也就是俗称的码率，但仍有大部分 HEVC + AAC 组合的直播源始终无法检测其画质优劣，欢迎各位喜欢折腾的朋友提供思路（如何检测视频码率，音频码率？以便在众多直播源里优中选优）
 
 ### 感谢：wcb1969、SPX372928、fanmingming、Meroser
 
