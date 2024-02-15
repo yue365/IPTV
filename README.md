@@ -1,5 +1,6 @@
 IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐IPTV.m3u和Tivimate搭配食用（.txt的链接可以配置到tvtbox等类似软件壳子里使用），体验非常好。
-以下是免fq链接，任选一个即可
+##
+以下是免翻墙链接，任选一个即可
 https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 ##
