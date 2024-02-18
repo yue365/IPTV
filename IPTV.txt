@@ -2161,9 +2161,9 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖南娱乐,http://42.48.17.188:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://36.158.72.54:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-湖南快乐垂钓,http://111.20.33.70/PLTV/88888893/224/3221226805/index.m3u8
-湖南快乐垂钓,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
+快乐垂钓,http://111.20.33.70/PLTV/88888893/224/3221226805/index.m3u8
+快乐垂钓,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南教育,http://42.48.17.188:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚台,http://36.158.72.54:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://36.158.72.54:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
