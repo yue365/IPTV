@@ -2048,7 +2048,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/8
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 
-[SITV],#genre#
+[SITV&NewTV系列],#genre#
 SITV七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
 SITV七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 SITV七彩戏剧,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000199/index.m3u8?IAS
@@ -2097,7 +2097,6 @@ SITV都市剧场,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000
 SITV魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
 SITV魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 
-[NewTV系列],#genre#
 NewTV东北热剧,http://[2409:8087:1a0b:df::4017]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
