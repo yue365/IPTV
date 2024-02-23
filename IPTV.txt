@@ -3080,9 +3080,9 @@ SITV生活时尚,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/0000000100000006000
 SITV生活时尚,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000194/index.m3u8?IAS
 SITV生活时尚,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000194/index.m3u8?IAS
 SITV生活时尚,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000194/index.m3u8?IAS
-SITV乐游频道,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-SITV乐游频道,http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
-SITV乐游频道,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
+SITV乐游,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+SITV乐游,http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
+SITV乐游,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
 SITV动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
 SITV动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
 SITV动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
