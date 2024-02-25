@@ -4,6 +4,7 @@ IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.
 https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
+
 新增IPTV2.txt 电信、联通用户可流畅观看
 
 ### 直播源检测
