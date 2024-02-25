@@ -4,6 +4,7 @@ IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.
 https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
+新增IPTV2.txt 电信、联通用户可流畅观看
 
 ### 直播源检测
 IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格式、音频信息等，虽然有的直播源可以被检测到动态比特率（但这个值不准确）也就是俗称的码率，但仍有大部分 HEVC + AAC 组合的直播源始终无法检测其画质优劣，欢迎各位喜欢折腾的朋友提供思路（如何检测视频码率，音频码率？以便在众多直播源里优中选优）
