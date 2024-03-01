@@ -13,4 +13,4 @@ IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格�
 ### 感谢：wcb1969、SPX372928、fanmingming、Meroser
 
 ### 我的直播源库
-<img src="https://github.com/yue365/IPTV/blob/master/sample-2024-01-30_12-13-19.png"/>
+<img src="https://github.com/yue365/IPTV/blob/master/IPTV_data.png"/>
