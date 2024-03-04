@@ -2,9 +2,9 @@
 IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.m3u 和 Tivimate（或者Perfect Player、Televizo）搭配使用，体验非常好。（IPTV.txt可以配置到tvtbox等类似软件使用）。
 以下是免翻墙链接，任选一个即可：
 
-https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
-https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
-https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
+1. https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
+2. https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
+3. https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 
 TVBox EPG接口：https://epg.11416.xyz/?ch={name}&date={date}
 
