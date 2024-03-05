@@ -6,7 +6,7 @@ IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.
 2. https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 3. https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 
-TVBox EPG接口：
+TVBox(Diyp) EPG接口：
 1. https://epg.11416.xyz/?ch={name}&date={date}
 2. https://epg.imxd.top/api/diyp/?ch={name}&date={date}
 
