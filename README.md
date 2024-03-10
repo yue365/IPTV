@@ -13,10 +13,9 @@ TVBox(Diyp) EPG接口：
 ### 直播源检测
 IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格式、音频信息等，虽然有的直播源可以被检测到动态比特率（但这个值不准确）也就是俗称的码率，但仍有大部分 HEVC + AAC 组合的直播源始终无法检测其画质优劣，欢迎各位喜欢折腾的朋友提供思路（如何检测视频码率，音频码率？以便在众多直播源里优中选优）。
 
-总算在2024年3月10日 检测到了直播源码率（后面可以在众多直播源里优中选优），生命不止折腾不息
+总算在 2024年3月10日 检测到了直播源码率（后面可以在众多直播源里优中选优），生命不止折腾不息
 
 ### 感谢：wcb1969、SPX372928、fanmingming、Meroser
 
 ### 我的直播源库
-<img src="https://github.com/yue365/IPTV/blob/master/IPTV_data.png"/>
 <img src="https://github.com/yue365/IPTV/blob/master/IPTV_data2.png"/>
