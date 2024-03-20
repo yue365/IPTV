@@ -231,6 +231,12 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",东方购物
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",都市剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海频道",动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
