@@ -7,15 +7,14 @@ IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.
 3. https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 
 TVBox(Diyp) EPG接口：
-1. https://epg.11416.xyz/?ch={name}&date={date}  （推荐，由本人维护）
+1. https://epg.11416.xyz/?ch={name}&date={date}
 2. https://epg.imxd.top/api/diyp/?ch={name}&date={date}
 
-### 直播源检测
-IPTV_Checker.py 可以批量检测直播源视频分辨率、帧率、编码格式、音频信息等，虽然有的直播源可以被检测到动态比特率（但这个值不准确）也就是俗称的码率，但仍有大部分 HEVC + AAC 组合的直播源始终无法检测其画质优劣，欢迎各位喜欢折腾的朋友提供思路（如何检测视频码率，音频码率？以便在众多直播源里优中选优）。
-
-本项目于 2024年3月10日 实现了直播源比特率的检测（后面可以在海量直播源里优中选优），生命不止折腾不息！
-
-### 感谢：wcb1969、SPX372928、fanmingming、Meroser
+### 感谢：
+<a href="https://github.com/wcb1969/iptv/">wcb1969</a>
+<a href="https://github.com/SPX372928/MyIPTV">SPX372928</a>
+<a href="https://github.com/fanmingming/live">fanmingming</a>
+<a href="https://github.com/PizazzGY/TVBox">PizazzGY</a>
 
 ### 我的直播源库
 <img src="https://github.com/yue365/IPTV/blob/master/IPTV_data2.png"/>
