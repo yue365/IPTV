@@ -10,10 +10,13 @@ TVBox(Diyp) EPG接口：
 1. https://epg.11416.xyz/?ch={name}&date={date}
 2. https://epg.imxd.top/api/diyp/?ch={name}&date={date}
 
-### 感谢：
+### 鸣谢：
 <a href="https://github.com/wcb1969/iptv/">wcb1969</a>
+
 <a href="https://github.com/SPX372928/MyIPTV">SPX372928</a>
+
 <a href="https://github.com/fanmingming/live">fanmingming</a>
+
 <a href="https://github.com/PizazzGY/TVBox">PizazzGY</a>
 
 ### 我的直播源库
