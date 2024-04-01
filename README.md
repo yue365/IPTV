@@ -20,5 +20,4 @@ TVBox(Diyp) EPG接口：
 <a href="https://github.com/PizazzGY/TVBox">PizazzGY</a>
 
 ### 我的直播源库
-<img src="https://github.com/yue365/IPTV/blob/master/IPTV_data2.png"/>
 <img src="https://github.com/yue365/IPTV/blob/master/IPTV_data3.png"/>
