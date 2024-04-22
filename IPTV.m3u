@@ -75,7 +75,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -86,11 +85,11 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+http://175.10.88.166:3000/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://116.178.78.175/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+http://175.10.88.166:3000/udp/239.76.246.135:1234
 ##EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://111.43.182.202/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+http://60.164.229.241:4040/udp/239.255.30.123:8231
 
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
