@@ -6,7 +6,7 @@ IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.
 2. https://fastly.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
 3. https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u
 
-如果这个项目对你有帮助，可以打赏我
+如果这个项目对你有帮助，请打赏我
 
 <img src="https://github.com/yue365/IPTV/blob/master/zanshang.jpg" style="width:36%;height:36%;"/>
 
