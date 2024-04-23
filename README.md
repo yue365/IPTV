@@ -1,5 +1,5 @@
 ### 介绍
-IPTV.m3u和IPTV.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.m3u 和 Tivimate（或者Perfect Player、Televizo）搭配使用，体验非常好。（IPTV.txt可以配置到tvtbox等类似软件使用）。
+IPTV.m3u和IPTV9.txt都是移动IPTV直播源（请勿商用！），推荐 IPTV.m3u 和 Tivimate（或者Perfect Player、Televizo）搭配使用，体验非常好。（IPTV9.txt可以配置到TVBbox等类似软件使用）。
 以下是免翻墙链接，任选一个即可：
 
 1. https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
