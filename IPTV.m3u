@@ -86,11 +86,14 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://110.72.81.19:8181/tsfile/live/0108_1.m3u8?key=txiptv
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
+
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://110.72.81.19:8181/tsfile/live/1064_1.m3u8?key=txiptv
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
+
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://110.72.81.19:8181/tsfile/live/1065_1.m3u8?key=txiptv
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
+
 
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
