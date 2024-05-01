@@ -134,7 +134,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?
 #EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://124.165.251.82:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+htthttp://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
