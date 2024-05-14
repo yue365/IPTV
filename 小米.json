@@ -653,14 +653,20 @@
 		"regex": ["最 新", "直 播", "更 新"]
 	}],
 	"lives": [{
-		"name": "XIUTAN",
-		"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-		"type": 0,
-		"url": "https://xhdwc.tk/xiutan.m3u"
-	}, {
-		"name": "IPV6",
-		"type": 0,
-		"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
-		"playerType": 1
-	}]
+			"name": "yue365直播源",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV9.txt",
+			"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "酒店IPTV源",
+			"type": 0,
+			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+			"playerType": 1,
+			"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	]
 }
