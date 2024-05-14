@@ -70,7 +70,7 @@
 			"type": 3,
 			"api": "csp_NewCz",
 			"timeout": 15,
-			"playerType": 2,
+			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
@@ -93,7 +93,7 @@
 			"type": 3,
 			"api": "csp_NanGua",
 			"timeout": 15,
-			"playerType": 2,
+			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
@@ -134,7 +134,7 @@
 			"type": 3,
 			"api": "csp_AppTT",
 			"timeout": 15,
-			"playerType": 2,
+			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
@@ -156,7 +156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"playerType": "1",
+			"playerType": 1,
 			"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 		},
@@ -176,7 +176,7 @@
 			"name": "⏮️低端┃外剧",
 			"type": 3,
 			"api": "csp_Ddrk",
-			"playerType": "1",
+			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
@@ -353,7 +353,7 @@
 			"name": "📽️网红┃直播",
 			"type": 3,
 			"api": "csp_Yj1211",
-			"playerType": "1",
+			"playerType": 1,
 			"searchable": 0,
 			"quickSearch": 1,
 			"changeable": 0
@@ -368,7 +368,7 @@
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"playerType": "1",
+			"playerType": 1,
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
@@ -383,7 +383,7 @@
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"playerType": "1",
+			"playerType": 1,
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
@@ -656,14 +656,6 @@
 			"type": 0,
 			"playerType": 1,
 			"url": "https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV9.txt",
-			"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "酒店IPTV源",
-			"type": 0,
-			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-			"playerType": 1,
 			"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
