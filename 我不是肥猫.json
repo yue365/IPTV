@@ -1,5 +1,5 @@
 {
-	"spider": "https://cloud.lxweb.cn/f/qDZmfe/PandaQ240509.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
+	"spider": "https://www.cloudewl.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo": "http://我不是.肥猫.live/fatcat.jpg",
 	"sites": [{
@@ -29,8 +29,7 @@
 		"api": "csp_Xinsj",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.80yy3.com/"
+		"filterable": 1
 	}, {
 		"key": "胖虎",
 		"name": "🐯┃胖虎┃影视",
@@ -38,7 +37,9 @@
 		"api": "csp_Panghu",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
+		"filterable": 1,
+		"playerType": 1,
+		"ext": "https://physvod.com"
 	}, {
 		"key": "csp_Nkdy",
 		"name": "🏔┃耐看┃影视",
@@ -99,7 +100,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://www.cz233.com/"
+		"ext": "https://czzy.top/"
 	}, {
 		"key": "csp_AppRZ",
 		"name": " 🕵┃忍者┃影视",
@@ -112,7 +113,7 @@
 		"name": "🌾┃农民┃影视",
 		"type": 3,
 		"api": "csp_Nmys",
-		"playerType": 1,
+		"playerType": "1",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
@@ -147,7 +148,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"playerType": 1
+		"playerType": "1"
 	}, {
 		"key": "毛驴",
 		"name": "🦙┃毛驴┃影视",
@@ -196,7 +197,7 @@
 		"name": "🐤┃6V磁力┃影视",
 		"type": 3,
 		"api": "csp_Xb6v",
-		"playerType": "2"
+		"playerType": 1
 	}, {
 		"key": "乐乐",
 		"name": "🎡️┃乐乐┃影视",
@@ -286,15 +287,10 @@
 		"key": "csp_SC1080",
 		"name": "🏰┃圣城┃影视",
 		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": {
-			"线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
-			"线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-			"播放数组": "sort-item\"&&</div>",
-			"嗅探词": ".m3u8#.mp4#olemovienews.com",
-			"分类url": "https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;aAcCrRm0u0",
-			"分类": "电影$1#连续剧$2#综艺$3#动漫$4#记录片$5#Netflix$20"
-		}
+		"api": "csp_SC1080",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
 	}, {
 		"key": "csp_LIBVIO",
 		"name": "🍒┃荔波┃影视",
@@ -539,7 +535,7 @@
 		"name": "关注公众号：肥猫宝贝",
 		"type": 3,
 		"api": "csp_Push",
-		"playerType": 1,
+		"playerType": "1",
 		"searchable": 0,
 		"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 	}],
