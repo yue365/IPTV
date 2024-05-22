@@ -1,9 +1,9 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715563882517/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716299041896/fan.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🌕公众号【神秘的哥哥们】",
+			"name": "🌕全接口智能过滤广告",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -55,28 +55,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "原创",
-			"name": "☀原创┃无广",
-			"type": 3,
-			"api": "csp_YCyz",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "厂长",
-			"name": "📔厂长┃不卡",
-			"type": 3,
-			"api": "csp_NewCz",
-			"timeout": 15,
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://czzy.top/"
-		},
-		{
 			"key": "视觉",
 			"name": "👓视觉┃多线",
 			"type": 3,
@@ -106,6 +84,28 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
+		},
+		{
+			"key": "原创",
+			"name": "☀原创┃不卡",
+			"type": 3,
+			"api": "csp_YCyz",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"key": "厂长",
+			"name": "📔厂长┃不卡",
+			"type": 3,
+			"api": "csp_NewCz",
+			"timeout": 15,
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://czzy.top/"
 		},
 		{
 			"key": "糯米",
@@ -156,7 +156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"playerType": 1,
+			"playerType": "1",
 			"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 		},
@@ -203,7 +203,7 @@
 		},
 		{
 			"key": "Lib",
-			"name": "🌟立播┃无广",
+			"name": "🌟立播┃不卡",
 			"type": 3,
 			"api": "csp_Libvio",
 			"timeout": 15,
@@ -353,7 +353,7 @@
 			"name": "📽️网红┃直播",
 			"type": 3,
 			"api": "csp_Yj1211",
-			"playerType": 1,
+			"playerType": "1",
 			"searchable": 0,
 			"quickSearch": 1,
 			"changeable": 0
@@ -368,7 +368,7 @@
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"playerType": 1,
+			"playerType": "1",
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
@@ -383,7 +383,7 @@
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"playerType": 1,
+			"playerType": "1",
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
@@ -426,8 +426,22 @@
 			}
 		},
 		{
+			"key": "米搜",
+			"name": "🦋米搜┃搜索",
+			"type": 3,
+			"api": "csp_MIPanSo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": {
+				"pan": "quark",
+				"quarkCookie": "tvfan/cookie.txt",
+				"from": "4k|auto|fhd"
+			}
+		},
+		{
 			"key": "夸搜",
-			"name": "🐺夸搜┃搜索",
+			"name": "🐌夸搜┃搜索",
 			"type": 3,
 			"api": "csp_PanSearch",
 			"searchable": 1,
