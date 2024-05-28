@@ -1049,9 +1049,9 @@
 		"name": "IPTV",
 		"type": 0,
 		"playerType": 1,
-		"url": "https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV9.txt",
+		"url": "https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u",
 		"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		"logo": "https://live.fanmingming.com/tv/{name}.png"
 	}],
 	"rules": [{
 		"host": "www.djuu.com",
