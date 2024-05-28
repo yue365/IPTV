@@ -1,5 +1,6 @@
 {
 	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"sites": [{
 		"key": "drpy_js_豆瓣",
 		"name": "豆瓣 | 热播[js]",
