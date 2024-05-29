@@ -2,15 +2,12 @@
 	"wallpaper": "https://xhdwc.tk/api/img.php",
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
 	"lives": [{
-		"name": "tvlive",
+		"name": "IPTV",
 		"type": 0,
-		"url": "https://xhdwc.tk/tvlive.txt",
-		"playerType": 2
-	}, {
-		"name": "嗅探",
-		"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-		"type": 0,
-		"url": "https://xhdwc.tk/xiutan.m3u"
+		"playerType": 1,
+		"url": "https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV9.txt",
+		"epg": "http://epg.11416.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	}],
 	"sites": [{
 		"key": "豆瓣推荐",
