@@ -245,4 +245,4 @@ CCTV-17,http://223.151.49.74:59901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1
 CCTV-17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://58.19.182.187:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-
+[不再更新],#genre#
