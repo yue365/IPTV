@@ -54,8 +54,8 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 
-#
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+
+##EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
@@ -143,7 +143,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://60.208.104.234:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016568/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
@@ -170,7 +170,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://111.160.17.2:59902/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
