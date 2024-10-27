@@ -52,7 +52,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
 
 ##EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
