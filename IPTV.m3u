@@ -72,14 +72,13 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",风云音乐
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-
 
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -95,6 +94,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+
 
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -170,7 +170,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -182,13 +182,13 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/index.m3u
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="101" tvg-name="内蒙卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
@@ -197,12 +197,10 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/index.m3u
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
 
 #EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
@@ -216,27 +214,27 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+##EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
-#EXTINF:-1 tvg-id="-1" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+##EXTINF:-1 tvg-id="-1" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+##EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+##EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 
 #EXTINF:-1 tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:5e08:24::8]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="152" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/index.m3u8
 
 #EXTINF:-1 tvg-id="153" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:5e08:24::8]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
@@ -270,7 +268,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/index.m3u8
 
 #EXTINF:-1 tvg-id="344" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
 
 
 #EXTINF:-1 tvg-id="179" tvg-name="上海乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",乐游
@@ -371,17 +369,21 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001737/index.m3u8?
 #EXTINF:-1 tvg-id="-1" tvg-name="汉中公共频道" tvg-logo="" group-title="陕西频道",汉中公共频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="汉中二套" tvg-logo="" group-title="陕西频道",汉中二套
-http://111.20.33.70/PLTV/88888893/224/3221225990/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="汉中教育频道" tvg-logo="" group-title="陕西频道",汉中教育频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="安康一套" tvg-logo="" group-title="陕西频道",安康一套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="安康综合频道" tvg-logo="" group-title="陕西频道",安康综合频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="-1" tvg-name="榆林综合频道" tvg-logo="" group-title="陕西频道",榆林综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="-1" tvg-name="咸阳综合频道" tvg-logo="" group-title="陕西频道",咸阳综合频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="-1" tvg-name="渭南综合频道" tvg-logo="" group-title="陕西频道",渭南综合频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 
@@ -456,19 +458,18 @@ http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿频道",哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="291" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="少儿频道",海南少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
 
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
 
-#EXTINF:-1 tvg-id="292" tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.xyz/logo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
-#EXTINF:-1 tvg-id="291" tvg-name="海南少儿" tvg-logo="https://epg.112114.xyz/logo/海南少儿.png" group-title="少儿频道",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
