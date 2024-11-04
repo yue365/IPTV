@@ -360,28 +360,28 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-id="260" tvg-name="陕西七套" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 
-#EXTINF:-1 tvg-id="-1" tvg-name="宝鸡综合频道" tvg-logo="" group-title="陕西频道",宝鸡综合频道
+##EXTINF:-1 tvg-id="-1" tvg-name="宝鸡综合频道" tvg-logo="" group-title="陕西频道",宝鸡综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="宝鸡公共频道" tvg-logo="" group-title="陕西频道",宝鸡公共频道
+##EXTINF:-1 tvg-id="-1" tvg-name="宝鸡公共频道" tvg-logo="" group-title="陕西频道",宝鸡公共频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="汉中公共频道" tvg-logo="" group-title="陕西频道",汉中公共频道
+##EXTINF:-1 tvg-id="-1" tvg-name="汉中公共频道" tvg-logo="" group-title="陕西频道",汉中公共频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="汉中教育频道" tvg-logo="" group-title="陕西频道",汉中教育频道
+##EXTINF:-1 tvg-id="-1" tvg-name="汉中教育频道" tvg-logo="" group-title="陕西频道",汉中教育频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="安康综合频道" tvg-logo="" group-title="陕西频道",安康综合频道
+##EXTINF:-1 tvg-id="-1" tvg-name="安康综合频道" tvg-logo="" group-title="陕西频道",安康综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="榆林综合频道" tvg-logo="" group-title="陕西频道",榆林综合频道
+##EXTINF:-1 tvg-id="-1" tvg-name="榆林综合频道" tvg-logo="" group-title="陕西频道",榆林综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="咸阳综合频道" tvg-logo="" group-title="陕西频道",咸阳综合频道
+##EXTINF:-1 tvg-id="-1" tvg-name="咸阳综合频道" tvg-logo="" group-title="陕西频道",咸阳综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="-1" tvg-name="渭南综合频道" tvg-logo="" group-title="陕西频道",渭南综合频道
+##EXTINF:-1 tvg-id="-1" tvg-name="渭南综合频道" tvg-logo="" group-title="陕西频道",渭南综合频道
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
