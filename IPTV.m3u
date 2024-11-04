@@ -202,29 +202,29 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040015/index.m3u
 #EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
+##EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+##http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
 
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视频道",农林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-#EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8
+##EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8
 
-#EXTINF:-1 tvg-id="166" tvg-name="大湾区" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
+##EXTINF:-1 tvg-id="166" tvg-name="大湾区" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+##http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
 
 ##EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
-#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+##http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
-#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+##http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
 ##EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+##http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 ##EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
-#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+##http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
 
 #EXTINF:-1 tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
@@ -361,28 +361,28 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="宝鸡综合频道" tvg-logo="" group-title="陕西频道",宝鸡综合频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="宝鸡公共频道" tvg-logo="" group-title="陕西频道",宝鸡公共频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="汉中公共频道" tvg-logo="" group-title="陕西频道",汉中公共频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="汉中教育频道" tvg-logo="" group-title="陕西频道",汉中教育频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="安康综合频道" tvg-logo="" group-title="陕西频道",安康综合频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="榆林综合频道" tvg-logo="" group-title="陕西频道",榆林综合频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="咸阳综合频道" tvg-logo="" group-title="陕西频道",咸阳综合频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ##EXTINF:-1 tvg-id="-1" tvg-name="渭南综合频道" tvg-logo="" group-title="陕西频道",渭南综合频道
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+##http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 
