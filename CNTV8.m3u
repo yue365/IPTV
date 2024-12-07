@@ -100,6 +100,26 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="225" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="999" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/Now星影台" group-title="港台频道",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="999" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="港台频道",ViuTV
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="999" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="港台频道",ViuTV6
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
