@@ -52,7 +52,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=0
 
 #EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
@@ -90,7 +90,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 
-
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
@@ -112,6 +111,9 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="0" tvg-name="千禧經典台(HK)" tvg-logo="https://live.fanmingming.com/tv/千禧經典台(HK).png" group-title="港台频道",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="0" tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/Now星影台" group-title="港台频道",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 
@@ -121,14 +123,23 @@ http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港台频道",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港台频道",龙华日韩
+#EXTINF:-1 tvg-id="0" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="港台频道",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel5_HD.png" group-title="港台频道",Channe 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel8_HD.png" group-title="港台频道",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="港台频道",ViuTV
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="港台频道",ViuTV6
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love_Nature_HD.png" group-title="港台频道",Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
