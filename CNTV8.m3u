@@ -220,7 +220,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
-
 #EXTINF:-1 tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:5e08:24::8]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 
@@ -250,7 +249,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="卫视频道",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/index.m3u8
-
 
 #EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="卫视频道",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
@@ -444,9 +442,8 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/index.m3u
 #EXTINF:-1 tvg-id="291" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="少儿频道",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
 
-#EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="卫视频道",黑莓动画
+#EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
@@ -461,10 +458,10 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="港台频道",千禧经典台(HK)
+#EXTINF:-1 tvg-id="0" tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="港台频道",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="港台频道",美亚电影台(HK)
+#EXTINF:-1 tvg-id="0" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="港台频道",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道",TVB星河
@@ -482,11 +479,14 @@ http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="港台频道",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Channel5" tvg-logo="https://live.fanmingming.com/tv/Channel5_HD.png" group-title="港台频道",Channe5
+#EXTINF:-1 tvg-id="0" tvg-name="Channel5" tvg-logo="https://live.fanmingming.com/tv/Channel5_HD.png" group-title="港台频道",Channe 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Channel8" tvg-logo="https://live.fanmingming.com/tv/Channel8_HD.png" group-title="港台频道",Channel8
+#EXTINF:-1 tvg-id="0" tvg-name="Channel8" tvg-logo="https://live.fanmingming.com/tv/Channel8_HD.png" group-title="港台频道",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="ChannelU" tvg-logo="https://live.fanmingming.com/tv/ChannelU_HD.png" group-title="港台频道",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="港台频道",ViuTV
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -494,9 +494,11 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="港台频道",ViuTV6
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love_Nature.png" group-title="港台频道",Love Nature
-http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Astro_AEC" tvg-logo="https://live.fanmingming.com/tv/Astro_AEC.png" group-title="港台频道",Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="Astro_iQIYI" tvg-logo="https://live.fanmingming.com/tv/Astro_iQIYI.png" group-title="港台频道",Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="0" tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love_Nature.png" group-title="港台频道",Love Nature
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
