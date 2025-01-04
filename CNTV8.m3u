@@ -502,3 +502,291 @@ http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love_Nature.png" group-title="港台频道",Love Nature
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",周星驰电影
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",林正英电影
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",刘德华电影
+http://cdn.jdshipin.com:8880/huya.php?id=11342424
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",古天乐电影
+http://cdn.jdshipin.com:8880/huya.php?id=29982675
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",成龙电影
+http://jiaojirentv.top/2020/dy.php?id=3379942
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",李连杰电影
+http://cdn.jdshipin.com:8880/huya.php?id=11342390
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",甄子丹电影
+http://cdn.jdshipin.com:8880/huya.php?id=11352935
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",狄仁杰系列
+http://cdn.jdshipin.com:8880/huya.php?id=30080229
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",沈腾电影
+http://cdn.jdshipin.com:8880/huya.php?id=11601968
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",黄渤电影
+http://cdn.jdshipin.com:8880/huya.php?id=11352876
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",强森电影
+http://cdn.jdshipin.com:8880/huya.php?id=21059581
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",王晶电影
+http://cdn.jdshipin.com:8880/huya.php?id=11602058
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",金庸武侠
+http://cdn.jdshipin.com:8880/huya.php?id=11342435
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",功夫电影
+http://cdn.jdshipin.com:8880/huya.php?id=11352941
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",贺岁电影
+http://cdn.jdshipin.com:8880/huya.php?id=11601986
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",X战警电影
+http://jiaojirentv.top/2020/dy.php?id=9651304
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",欧美大片
+http://jiaojirentv.top/2020/dy.php?id=2793084
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",寒战
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/电影.png" group-title="电影",龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/延禧攻略.png" group-title="电视剧",延禧攻略
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
+#http://www.52sw.top:678/play/huya.php?id=26355864
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/琅琊榜.png" group-title="电视剧",琅琊榜
+http://zby.xjqxz.top/lyb/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/新三国.png" group-title="电视剧",新三国
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/新水浒.png" group-title="电视剧",新水浒传
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/三国演义.png" group-title="电视剧", 三国演义
+http://live.metshop.top/huya/11602081
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/少年包青天1.png" group-title="电视剧",少年包青天第一部
+http://jiaojirentv.top/2020/yy.php?id=1356043677
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/少年包青天3.png" group-title="电视剧",少年包青天第三部
+http://jiaojirentv.top/2020/yy.php?id=1382736814
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/神探狄仁杰.png" group-title="电视剧",神探狄仁杰第一部
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11352958
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/神探狄仁杰3.png" group-title="电视剧",神探狄仁杰第三部
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11342425
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/爱情公寓.png" group-title="电视剧",爱情公寓
+http://182.40.120.216/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+#http://223.85.105.11/test-txdwk.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/欢乐颂.png" group-title="电视剧",欢乐颂
+http://jiaojirentv.top/2020/dy.php?id=3756989
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/亮剑.png" group-title="电视剧",亮剑
+http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=30080238
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/雪豹.png" group-title="电视剧",雪豹
+http://cdn.jdshipin.com:8880/huya.php?id=29580970
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/特种兵之火凤凰.png" group-title="电视剧",特种兵之火凤凰
+http://223.85.105.11/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
+#http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150714-1239543150714-11135001069078183936-2479086424884-10057-A-0-1.m3u8
+#http://huanqiuzhibo.cn/manifest/huya.php?id=29982636
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/士兵突击.png" group-title="电视剧",士兵突击
+http://cdn.jdshipin.com:8880/huya.php?id=11342430
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/笑傲江湖.png" group-title="电视剧",笑傲江湖
+http://cdn.jdshipin.com:8880/huya.php?id=26355790
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/神雕侠侣.png" group-title="电视剧",神雕侠侣
+http://cdn.jdshipin.com:8880/huya.php?id=11352964
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/天龙八部.png" group-title="电视剧",天龙八部
+http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/倚天屠龙记苏有朋.png" group-title="电视剧",倚天屠龙记
+http://cdn.jdshipin.com:8880/huya.php?id=11342403
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/铁齿铜牙纪晓岚.png" group-title="电视剧",铁齿铜牙纪晓岚
+http://cdn.jdshipin.com:8880/huya.php?id=11342396
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/康熙王朝.png" group-title="电视剧",康熙王朝
+http://cdn.jdshipin.com:8880/huya.php?id=11352940
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/陈情令.png" group-title="电视剧",陈情令
+http://cdn.jdshipin.com:8880/huya.php?id=29465862
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/庆余年.png" group-title="电视剧",庆余年
+http://cdn.jdshipin.com:8880/huya.php?id=11352960
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/精绝古城.png" group-title="电视剧",鬼吹灯之精绝古城
+http://cdn.jdshipin.com:8880/huya.php?id=11352871
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/怒晴湘西.png" group-title="电视剧",鬼吹灯之怒晴湘西
+http://cdn.jdshipin.com:8880/huya.php?id=11602075
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/龙岭迷窟.png" group-title="电视剧",鬼吹灯之龙岭迷窟
+http://cdn.jdshipin.com:8880/huya.php?id=29465863
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/云南虫谷.png" group-title="电视剧",鬼吹灯之云南虫谷
+http://cdn.jdshipin.com:8880/huya.php?id=11352898
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/伪装者.png" group-title="电视剧",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/西游记后传.png" group-title="电视剧",西游记后传
+http://jiaojirentv.top/2020/yy.php?id=1353392400
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/隋唐英雄传.png" group-title="电视剧",隋唐英雄传
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/仙剑奇侠传.png" group-title="电视剧",仙剑奇侠传
+http://jiaojirentv.top/2020/yy.php?id=1382749903
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/西游记续集.png" group-title="电视剧",西游记续集
+http://jiaojirentv.top/2020/dy.php?id=3113309
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/利刃出鞘.png" group-title="电视剧",我是特种兵之利刃出鞘
+http://jiaojirentv.top/2020/yy.php?id=11419
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/狂飙.png" group-title="电视剧",狂飙
+http://jiaojirentv.top/2020/yy.php?id=1355142167
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/三国演义.png" group-title="电视剧", 三国演义
+http://lunbo.freetv.top/yy/1354930932
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/新白娘子传奇.png" group-title="电视剧", 新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354490667
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",楚汉骄雄
+http://cdn.jdshipin.com:8880/huya.php?id=23740156
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",封神榜
+http://cdn.jdshipin.com:8880/huya.php?id=23749096
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",西游记1
+http://cdn.jdshipin.com:8880/huya.php?id=23728660
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",西游记2
+http://cdn.jdshipin.com:8880/huya.php?id=23735126
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",天龙八部
+http://cdn.jdshipin.com:8880/huya.php?id=23903123
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",鹿鼎记
+http://cdn.jdshipin.com:8880/huya.php?id=23865080
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",寻秦记
+http://cdn.jdshipin.com:8880/huya.php?id=23864973
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",大唐双龙传
+http://cdn.jdshipin.com:8880/huya.php?id=23728674
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",神雕侠侣
+http://cdn.jdshipin.com:8880/huya.php?id=23865171
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",射雕英雄传
+http://cdn.jdshipin.com:8880/huya.php?id=23824164
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",倚天屠龙记
+http://cdn.jdshipin.com:8880/huya.php?id=23734246
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",笑傲江湖
+http://cdn.jdshipin.com:8880/huya.php?id=23865142
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",刑事侦缉档案
+http://cdn.jdshipin.com:8880/huya.php?id=23734169
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",法政先锋
+http://cdn.jdshipin.com:8880/huya.php?id=23863804
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",洗冤录
+http://cdn.jdshipin.com:8880/huya.php?id=23903130
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",陀枪师姐
+http://cdn.jdshipin.com:8880/huya.php?id=23860039
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",使徒行者
+http://cdn.jdshipin.com:8880/huya.php?id=23734256
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",鉴证实录
+http://cdn.jdshipin.com:8880/huya.php?id=23903183
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",金枝欲孽
+http://cdn.jdshipin.com:8880/huya.php?id=23865036
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",扫黄先锋
+http://cdn.jdshipin.com:8880/huya.php?id=23903196
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",创世纪
+http://cdn.jdshipin.com:8880/huya.php?id=23749083
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",妙手仁心
+http://cdn.jdshipin.com:8880/huya.php?id=23829543
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",大时代
+http://cdn.jdshipin.com:8880/huya.php?id=23865161
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",野蛮亲家
+http://cdn.jdshipin.com:8880/huya.php?id=23863796
+
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/img/埋堆堆.png" group-title="TVB经典剧",笑看风云
+http://cdn.jdshipin.com:8880/huya.php?id=23865058
+
+
+
+
+https://cdn.jsdelivr.net/gh/yue365/IPTV@master/IPTV.m3u
