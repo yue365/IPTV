@@ -462,7 +462,7 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/千禧经典台.png" group-title="港台频道",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/美亚电影台.png" group-title="港台频道",美亚电影台
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/美亚娱乐.png" group-title="港台频道",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="558" tvg-name="TVB星河台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/TVB星河.png" group-title="港台频道",TVB星河
@@ -480,13 +480,13 @@ http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/龙华日韩.png" group-title="港台频道",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Channel5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/Channel5_HD.png" group-title="港台频道",Channe 5
+#EXTINF:-1 tvg-id="0" tvg-name="Channel5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/Channel5.png" group-title="港台频道",Channe 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Channel8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/Channel8_HD.png" group-title="港台频道",Channel 8
+#EXTINF:-1 tvg-id="0" tvg-name="Channel8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/Channel8.png" group-title="港台频道",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="ChannelU" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/ChannelU_HD.png" group-title="港台频道",Channel U
+#EXTINF:-1 tvg-id="0" tvg-name="ChannelU" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/Channel_U.png" group-title="港台频道",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/tvlogo/viutv.png" group-title="港台频道",ViuTV
