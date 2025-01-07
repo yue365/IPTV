@@ -501,7 +501,7 @@ http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="Astro_iQIYI" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Astro_iQIYI.png" group-title="港台频道",Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Love Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Love_Nature.png" group-title="港台频道",Love Nature
+#EXTINF:-1 tvg-id="0" tvg-name="Love_Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Love_Nature.png" group-title="港台频道",Love Nature
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 
 
