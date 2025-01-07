@@ -489,7 +489,7 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="Channel8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/channel8.png" group-title="港台频道",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="ChannelU" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/channel_u.png" group-title="港台频道",Channel U
+#EXTINF:-1 tvg-id="0" tvg-name="ChannelU" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/channelu.png" group-title="港台频道",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/viutv.png" group-title="港台频道",ViuTV
