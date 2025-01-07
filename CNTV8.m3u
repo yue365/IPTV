@@ -468,8 +468,11 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="558" tvg-name="TVB星河台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/TVB星河.png" group-title="港台频道",TVB星河
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Now星影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Now星影台" group-title="港台频道",Now星影台
+#EXTINF:-1 tvg-id="0" tvg-name="Now星影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Now星影台.png" group-title="港台频道",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="Now爆谷台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Now爆谷台.png" group-title="港台频道",Now爆谷台
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/龙华经典.png" group-title="港台频道",龙华经典
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
