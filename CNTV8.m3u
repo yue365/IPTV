@@ -287,7 +287,7 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.
 #EXTINF:-1 tvg-id="198" tvg-name="第一财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/上海第一财经.png" group-title="上海频道",第一财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="199" tvg-name="上海新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/上视新闻.png" group-title="上海频道",上海新闻
+#EXTINF:-1 tvg-id="199" tvg-name="上海新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/上海新闻.png" group-title="上海频道",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="263" tvg-name="上海都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/上海都市.png" group-title="上海频道",上海都市
@@ -351,7 +351,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-id="260" tvg-name="陕西七套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 
-#EXTINF:-1 tvg-id="149" tvg-name="求索记录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/求索记录.png" group-title="求索系列",求索记录
+#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/求索纪录.png" group-title="求索系列",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/求索动物.png" group-title="求索系列",求索动物
