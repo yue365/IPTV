@@ -462,7 +462,7 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/myTVSuper.png" group-title="港台频道",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/美亚娱乐ltd.png" group-title="港台频道",美亚电影台
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/美亚娱乐.png" group-title="港台频道",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="558" tvg-name="TVB星河台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/TVB星河.png" group-title="港台频道",TVB星河
