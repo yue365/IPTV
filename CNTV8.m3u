@@ -462,10 +462,10 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/myTVSuper.png" group-title="港台频道",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/美亚娱乐.png" group-title="港台频道",美亚电影台
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/美亚娱乐2.png" group-title="港台频道",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="558" tvg-name="TVB星河台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/TVB星河.png" group-title="港台频道",TVB星河
+#EXTINF:-1 tvg-id="558" tvg-name="TVB星河台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/TVB星河2.png" group-title="港台频道",TVB星河
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="Now星影台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/Now星影台.png" group-title="港台频道",Now星影台
@@ -477,7 +477,7 @@ http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="龙华经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/龙华经典.png" group-title="港台频道",龙华经典
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/龙华电影.png" group-title="港台频道",龙华电影
+#EXTINF:-1 tvg-id="0" tvg-name="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/龙华电影2.png" group-title="港台频道",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="龙华日韩" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/yue365/IPTV/master/logo/龙华日韩.png" group-title="港台频道",龙华日韩
