@@ -146,7 +146,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015436/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
@@ -179,7 +179,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/山西卫视.png" group-title="卫视频道",山西卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -203,10 +203,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002801/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/康巴卫视.png" group-title="卫视频道",康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -224,7 +224,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 http://[2409:8087:5e08:24::8]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="152" tvg-name="中国教育2台" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CETV2.png" group-title="卫视频道",CETV-2
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="153" tvg-name="中国教育3台" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CETV3.png" group-title="卫视频道",CETV-3
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -248,7 +248,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="海南公共" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/海南公共.png" group-title="卫视频道",海南公共
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/index.m3u8
 
 #EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/游戏风云.png" group-title="卫视频道",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
@@ -257,10 +257,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-id="356" tvg-name="哒啵赛事" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/index.m3u8
 
 #EXTINF:-1 tvg-id="344" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
 
 
 #EXTINF:-1 tvg-id="179" tvg-name="上海乐游频道" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/乐游.png" group-title="上海频道",乐游
@@ -364,7 +364,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="365" tvg-name="newtv明星大片" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV明星大片.png" group-title="NewTV系列",明星大片
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/index.m3u8
 
 #EXTINF:-1 tvg-id="431" tvg-name="newtv东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV东北热剧.png" group-title="NewTV系列",东北热剧
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
@@ -397,10 +397,10 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000024/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="366" tvg-name="newtv惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV惊悚悬疑.png" group-title="NewTV系列",惊悚悬疑
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000015/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="364" tvg-name="newtv热播精选" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV热播精选.png" group-title="NewTV系列",热播精选
-http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/index.m3u8
 
 #EXTINF:-1 tvg-id="359" tvg-name="newtv炫舞未来" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
@@ -440,10 +440,10 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="291" tvg-name="海南少儿" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/海南少儿.png" group-title="少儿频道",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
 
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/黑莓动画.png" group-title="少儿频道",黑莓动画
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
+##http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
 
 
 
