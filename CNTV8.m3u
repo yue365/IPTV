@@ -402,14 +402,14 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000015/index.m3u
 #EXTINF:-1 tvg-id="364" tvg-name="newtv热播精选" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV热播精选.png" group-title="NewTV系列",热播精选
 ##http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/index.m3u8
 
-#EXTINF:-1 tvg-id="359" tvg-name="newtv炫舞未来" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="536" tvg-name="newtv魅力潇湘" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV魅力潇湘.png" group-title="NewTV系列",魅力潇湘
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="355" tvg-name="newtv潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="358" tvg-name="newtv军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV军事评论.png" group-title="NewTV系列",军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="176" tvg-name="newtv超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/NEWTV超级体育.png" group-title="NewTV系列",超级体育
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
