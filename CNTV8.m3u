@@ -150,13 +150,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/农林卫视.png" group-title="卫视频道",农林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-name="卡酷动画" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
@@ -173,6 +173,3 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/index.m3u
 
 #EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
-
-#399999999 tvg-id="291" tvg-name="海南少儿" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/海南少儿.png" group-title="卫视频道",海南少儿
-
