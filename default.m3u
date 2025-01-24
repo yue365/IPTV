@@ -366,9 +366,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 #EXTINF:-1 tvg-id="365" tvg-name="newtv明星大片" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV明星大片.png" group-title="NewTV系列",明星大片
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/index.m3u8
 
-#EXTINF:-1 tvg-id="431" tvg-name="newtv东北热剧" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV东北热剧.png" group-title="NewTV系列",东北热剧
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
-
 #EXTINF:-1 tvg-id="432" tvg-name="newtv欢乐剧场" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
 
@@ -399,11 +396,17 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000015/index.m3u
 #EXTINF:-1 tvg-id="364" tvg-name="newtv热播精选" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV热播精选.png" group-title="NewTV系列",热播精选
 http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/index.m3u8
 
+#EXTINF:-1 tvg-id="355" tvg-name="newtv潮妈辣婆" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="373" tvg-name="newtv中国功夫" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-id="536" tvg-name="newtv魅力潇湘" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV魅力潇湘.png" group-title="NewTV系列",魅力潇湘
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="355" tvg-name="newtv潮妈辣婆" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="431" tvg-name="newtv东北热剧" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV东北热剧.png" group-title="NewTV系列",东北热剧
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="358" tvg-name="newtv军事评论" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV军事评论.png" group-title="NewTV系列",军事评论
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
@@ -416,9 +419,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000014634/index.m3u
 
 #EXTINF:-1 tvg-id="229" tvg-name="newtv武博世界" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV武博世界.png" group-title="NewTV系列",武搏世界
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-id="373" tvg-name="newtv中国功夫" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="427" tvg-name="newtv超级综艺" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3

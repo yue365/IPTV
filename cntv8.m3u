@@ -1,34 +1,34 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/index.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -100,7 +100,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
