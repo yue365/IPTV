@@ -1,175 +1,175 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV10.png" group-title="央视频道",CCTV-10 科教
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/广东卫视.png" group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/广西卫视.png" group-title="卫视频道",广西卫视
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/海南卫视.png" group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/东南卫视.png" group-title="卫视频道",东南卫视
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/东南卫视.png" group-title="卫视频道",东南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/天津卫视.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/河北卫视.png" group-title="卫视频道",河北卫视
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/山东卫视.png" group-title="卫视频道",山东卫视
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015436/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/江西卫视.png" group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/河南卫视.png" group-title="卫视频道",河南卫视
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/云南卫视.png" group-title="卫视频道",云南卫视
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/四川卫视.png" group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="101" tvg-name="内蒙卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="101" tvg-name="内蒙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/山西卫视.png" group-title="卫视频道",山西卫视
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/山西卫视.png" group-title="卫视频道",山西卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002965/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/青海卫视.png" group-title="卫视频道",青海卫视
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
+#EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 
-#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/农林卫视.png" group-title="卫视频道",农林卫视
+#EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/农林卫视.png" group-title="卫视频道",农林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="135" tvg-name="卡酷动画" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
+#EXTINF:-1 tvg-id="135" tvg-name="卡酷动画" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
 http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/金鹰卡通.png" group-title="卫视频道",金鹰卡通
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/优漫卡通.png" group-title="卫视频道",优漫卡通
+#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/优漫卡通.png" group-title="卫视频道",优漫卡通
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/哈哈炫动.png" group-title="卫视频道",哈哈炫动
+#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/哈哈炫动.png" group-title="卫视频道",哈哈炫动
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/raw.githubusercontent.com/yue365/IPTV/master/logo/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
+#EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/yue365/IPTV@master/logo/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
